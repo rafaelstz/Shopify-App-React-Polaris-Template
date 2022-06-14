@@ -1,0 +1,37 @@
+{
+    "name": "shopify-app-react-polaris-template",    
+    "version": "0.1.0",
+    "description": "Shopify Polaris screens to help you get start with your app screens with React.",
+    "license": "MIT",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test --env=jsdom",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "@shopify/polaris": "9.15.0",
+      "@shopify/polaris-icons": "4.22.0",
+      "react": "18.1.0",
+      "react-dom": "18.1.0",
+      "react-scripts": "5.0.1"
+    },
+    "devDependencies": {
+      "enzyme": "^3.11.0",
+      "enzyme-adapter-react-16": "^1.15.2"
+    },
+    "browserslist": [
+      "last 3 chrome versions",
+      "last 3 chromeandroid versions",
+      "last 3 firefox versions",
+      "last 3 opera versions",
+      "last 2 edge versions",
+      "safari >= 10",
+      "ios >= 10"
+    ],
+    "keywords": [
+      "shopify",
+      "polaris",
+      "react"
+    ]
+  }
