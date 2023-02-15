@@ -10,7 +10,7 @@
       "eject": "react-scripts eject"
     },
     "dependencies": {
-      "@shopify/polaris": "10.21.0",
+      "@shopify/polaris": "10.28.0",
       "@shopify/polaris-icons": "4.22.0",
       "react": "18.2.0",
       "react-dom": "18.1.0",
